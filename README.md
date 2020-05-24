@@ -1,5 +1,6 @@
-Witch Party
-===========
+Witch Party 3.0
+===============
 
 Witch Party!
-http://buttsecs.org/witchparty for full config details!
+
+Coming soon to a theater near you.
